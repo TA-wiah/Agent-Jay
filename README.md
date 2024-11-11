@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Agent Jay Demo Game</title>
-</head>
 <body style="background-color: #212121; font-family: Arial, sans-serif; color: #fff;">
 <div style="max-width: 800px; margin: 40px auto; padding: 20px; background-color: #333; border: 1px solid #444; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
 <div style="background-color: #444; padding: 10px; border-radius: 10px 10px 0 0;">
